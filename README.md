@@ -12,7 +12,7 @@ An online drawing tool built as a 4 person team project over 3.5 days.
 - Open SpecRunner.html in Chrome to run the tests
 - View the demo here: ![Canvas Demo](https://raw.githubusercontent.com/FloraHarvey/canvas/img/canvas_demo.mp4)
 
-[canvas_screenshot](http://http://oi65.tinypic.com/21ke0qp.jpg)
+[canvas_screenshot](http://oi65.tinypic.com/21ke0qp.jpg)
 
 ## User Stories
 
